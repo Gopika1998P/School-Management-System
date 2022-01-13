@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Admission" max_length="40" name="x_707487_school_ma_admission" sizeclass="3" type="collection">
+        <element label="Address" max_length="4000" name="address" type="string"/>
+        <element label="Admission Number" max_length="40" name="admission_number" type="string"/>
+        <element label="Date of Birth" max_length="40" name="date_of_birth" type="glide_date"/>
+        <element label="Email" max_length="100" name="email" type="string"/>
+        <element label="Father's Mobile Number" max_length="100" name="father_s_mobile_number" type="string"/>
+        <element label="Father's Name" max_length="100" name="father_s_name" type="string"/>
+        <element label="Father's Occupation" max_length="100" name="father_s_occupation" type="string"/>
+        <element label="Father's Phone Number" max_length="100" name="father_s_phone_number" type="string"/>
+        <element display="true" label="Name" mandatory="true" max_length="100" name="first_name" type="string"/>
+        <element choice="1" label="Gender" max_length="40" name="gender" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Female" sequence="0" value="Female"/>
+                <element inactive_on_update="false" label="Male" sequence="1" value="Male"/>
+                <element inactive_on_update="false" label="Others" sequence="2" value="Others"/>
+            </choice>
+        </element>
+        <element label="Mobile Number" max_length="100" name="mobile_number" type="string"/>
+        <element label="Mother's Mobile Number" max_length="100" name="mother_s_mobile_number" type="string"/>
+        <element label="Mother's Name" max_length="100" name="mother_s_name" type="string"/>
+        <element label="Mother's Occupation" max_length="100" name="mother_s_occupation" type="string"/>
+        <element label="Mother's Phone Number" max_length="100" name="mother_s_phone_number" type="string"/>
+        <element choice="1" label="Nationality" max_length="40" name="nationality" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Indian" sequence="0" value="indian"/>
+                <element inactive_on_update="false" label="Others" sequence="1" value="others"/>
+            </choice>
+        </element>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Admission Number" max_length="40" name="number" type="string"/>
+    </element>
+</database>

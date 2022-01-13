@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Students" max_length="40" name="x_707487_school_ma_students" sizeclass="0" type="collection">
+        <element label="Attendance Percentage" max_length="40" name="attendance_percentage" type="string"/>
+        <element choice="1" label="Class" max_length="40" name="class" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Class-VIII" sequence="0" value="Class-VIII"/>
+                <element inactive_on_update="false" label="Class-IX" sequence="1" value="Class-IX"/>
+                <element inactive_on_update="false" label="Class-X" sequence="2" value="Class-X"/>
+                <element inactive_on_update="false" label="Class-XI" sequence="3" value="Class-XI"/>
+                <element inactive_on_update="false" label="Class-XII" sequence="4" value="Class-XII"/>
+            </choice>
+        </element>
+        <element choice="1" label="Division" max_length="40" name="division" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="A" sequence="0" value="A"/>
+                <element inactive_on_update="false" label="B" sequence="1" value="B"/>
+                <element inactive_on_update="false" label="C" sequence="2" value="C"/>
+            </choice>
+        </element>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Student Number" max_length="40" name="number" type="string"/>
+        <element choice="1" label="Period 1" max_length="32" name="period_1" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Physics" sequence="0" value="Physics"/>
+                <element inactive_on_update="false" label="Chemistry" sequence="1" value="Chemistry"/>
+                <element inactive_on_update="false" label="Computer Science" sequence="2" value="Computer Science"/>
+                <element inactive_on_update="false" label="Biology" sequence="3" value="Biology"/>
+                <element inactive_on_update="false" label="Maths" sequence="4" value="Maths"/>
+            </choice>
+        </element>
+        <element choice="1" label="Period 2" max_length="32" name="period_2" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Physics" sequence="0" value="Physics"/>
+                <element inactive_on_update="false" label="Chemistry" sequence="1" value="Chemistry"/>
+                <element inactive_on_update="false" label="Computer Science" sequence="2" value="Computer Science"/>
+                <element inactive_on_update="false" label="Biology" sequence="3" value="Biology"/>
+                <element inactive_on_update="false" label="Maths" sequence="4" value="Maths"/>
+            </choice>
+        </element>
+        <element choice="1" label="Period 3" max_length="32" name="period_3" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Physics" sequence="0" value="Physics"/>
+                <element inactive_on_update="false" label="Chemistry" sequence="1" value="Chemistry"/>
+                <element inactive_on_update="false" label="Computer Science" sequence="2" value="Computer Science"/>
+                <element inactive_on_update="false" label="Biology" sequence="3" value="Biology"/>
+                <element inactive_on_update="false" label="Maths" sequence="4" value="Maths"/>
+            </choice>
+        </element>
+        <element label="Student ID" max_length="100" name="student_id" type="string"/>
+        <element display="true" label="Student Name" mandatory="true" max_length="32" name="student_name" reference="x_707487_school_ma_admission" type="reference"/>
+        <element dependent="period_1" dependent_on_field="period_1" label="Teacher for period 1" max_length="32" name="teacher_for_period_1" reference="x_707487_school_ma_teachers" type="reference" use_dependent_field="true"/>
+        <element dependent="period_2" dependent_on_field="period_2" label="Teacher for period 2" max_length="32" name="teacher_for_period_2" reference="x_707487_school_ma_teachers" type="reference" use_dependent_field="true"/>
+        <element dependent="period_3" dependent_on_field="period_3" label="Teacher for period 3" max_length="32" name="teacher_for_period_3" reference="x_707487_school_ma_teachers" type="reference" use_dependent_field="true"/>
+        <index name="index">
+            <element name="student_name"/>
+        </index>
+        <index name="index2">
+            <element name="teacher_for_period_2"/>
+        </index>
+        <index name="index3">
+            <element name="teacher_for_period_1"/>
+        </index>
+        <index name="index4">
+            <element name="period_3"/>
+        </index>
+        <index name="index5">
+            <element name="period_2"/>
+        </index>
+        <index name="index6">
+            <element name="teacher_for_period_3"/>
+        </index>
+        <index name="index7">
+            <element name="period_1"/>
+        </index>
+    </element>
+</database>

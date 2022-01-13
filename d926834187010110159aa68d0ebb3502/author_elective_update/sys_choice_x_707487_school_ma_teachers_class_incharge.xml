@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="class_incharge" table="x_707487_school_ma_teachers" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>class_incharge</element>
+            <name>x_707487_school_ma_teachers</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-01-13 10:10:33</sys_created_on>
+            <sys_id>bfc2c49587850110159aa68d0ebb35d3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>class_incharge</sys_name>
+            <sys_package display_value="School Management System" source="x_707487_school_ma">d926834187010110159aa68d0ebb3502</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="School Management System">d926834187010110159aa68d0ebb3502</sys_scope>
+            <sys_update_name>sys_choice_x_707487_school_ma_teachers_class_incharge</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-01-13 10:10:33</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>class_incharge</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>A</label>
+            <language>en</language>
+            <name>x_707487_school_ma_teachers</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-01-13 10:10:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>37c2c49587850110159aa68d0ebb35d3</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-01-13 10:11:46</sys_updated_on>
+            <value>A</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>class_incharge</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>VIII</label>
+            <language>en</language>
+            <name>x_707487_school_ma_teachers</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-01-13 10:11:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>691304d587850110159aa68d0ebb3515</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-01-13 10:11:46</sys_updated_on>
+            <value>VIII</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>class_incharge</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>B</label>
+            <language>en</language>
+            <name>x_707487_school_ma_teachers</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-01-13 10:10:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f3c2c49587850110159aa68d0ebb35d5</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-01-13 10:11:46</sys_updated_on>
+            <value>B</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>class_incharge</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>IX</label>
+            <language>en</language>
+            <name>x_707487_school_ma_teachers</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-01-13 10:11:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6d1304d587850110159aa68d0ebb3516</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-01-13 10:11:46</sys_updated_on>
+            <value>IX</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>class_incharge</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>C</label>
+            <language>en</language>
+            <name>x_707487_school_ma_teachers</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-01-13 10:10:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b7c2c49587850110159aa68d0ebb35d6</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-01-13 10:11:46</sys_updated_on>
+            <value>C</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>class_incharge</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>X</label>
+            <language>en</language>
+            <name>x_707487_school_ma_teachers</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-01-13 10:11:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>211304d587850110159aa68d0ebb3518</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-01-13 10:11:46</sys_updated_on>
+            <value>X</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>class_incharge</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>XI</label>
+            <language>en</language>
+            <name>x_707487_school_ma_teachers</name>
+            <sequence>3</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-01-13 10:11:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>251348d587850110159aa68d0ebb35e1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-01-13 10:11:46</sys_updated_on>
+            <value>XI</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>class_incharge</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>XII</label>
+            <language>en</language>
+            <name>x_707487_school_ma_teachers</name>
+            <sequence>4</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-01-13 10:11:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f51348d587850110159aa68d0ebb35e2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-01-13 10:11:46</sys_updated_on>
+            <value>XII</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="mother_s_name" label="Mother's Name" language="en" table="x_707487_school_ma_admission">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>mother_s_name</element>
+            <help/>
+            <hint/>
+            <label>Mother's Name</label>
+            <language>en</language>
+            <name>x_707487_school_ma_admission</name>
+            <plural>Mother's Names</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-01-13 06:19:10</sys_created_on>
+            <sys_id>eaddc7c987810110159aa68d0ebb3574</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Mother's Name</sys_name>
+            <sys_package display_value="School Management System" source="x_707487_school_ma">d926834187010110159aa68d0ebb3502</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="School Management System">d926834187010110159aa68d0ebb3502</sys_scope>
+            <sys_update_name>sys_documentation_x_707487_school_ma_admission_mother_s_name_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-01-13 06:19:10</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

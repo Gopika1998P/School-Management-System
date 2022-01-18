@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="date_and_time" label="Date and Time" language="en" table="x_707487_school_ma_students">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>date_and_time</element>
+            <help/>
+            <hint/>
+            <label>Date and Time</label>
+            <language>en</language>
+            <name>x_707487_school_ma_students</name>
+            <plural>Date and Times</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-01-18 11:05:13</sys_created_on>
+            <sys_id>214f3d3687090110159aa68d0ebb359f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Date and Time</sys_name>
+            <sys_package display_value="School Management System" source="x_707487_school_ma">d926834187010110159aa68d0ebb3502</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="School Management System">d926834187010110159aa68d0ebb3502</sys_scope>
+            <sys_update_name>sys_documentation_x_707487_school_ma_students_date_and_time_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-01-18 11:05:13</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

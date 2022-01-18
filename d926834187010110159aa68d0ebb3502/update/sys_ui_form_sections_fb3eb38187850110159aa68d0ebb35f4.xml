@@ -17,16 +17,30 @@
         <sys_ui_form_section action="INSERT_OR_UPDATE">
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-01-13 09:50:36</sys_created_on>
+            <sys_created_on>2022-01-18 10:59:08</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>333ef38187850110159aa68d0ebb352a</sys_id>
+            <sys_id>a8edf1f287090110159aa68d0ebb3524</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_overrides/>
             <sys_ui_form display_value="x_707487_school_ma_students" name="x_707487_school_ma_students" sys_domain="global" view="Default view">fb3eb38187850110159aa68d0ebb35f4</sys_ui_form>
-            <sys_ui_section caption="Time Table" display_value="Time Table" name="x_707487_school_ma_students" sys_domain="global" view="Default view">bf3eb38187850110159aa68d0ebb35f2</sys_ui_section>
+            <sys_ui_section caption="Class Meeting Details" display_value="Class Meeting Details" name="x_707487_school_ma_students" sys_domain="global" view="Default view">20edf1f287090110159aa68d0ebb3522</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-01-13 09:50:36</sys_updated_on>
+            <sys_updated_on>2022-01-18 10:59:08</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-01-18 10:59:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>64edf1f287090110159aa68d0ebb3528</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_707487_school_ma_students" name="x_707487_school_ma_students" sys_domain="global" view="Default view">fb3eb38187850110159aa68d0ebb35f4</sys_ui_form>
+            <sys_ui_section caption="Notes" display_value="Notes" name="x_707487_school_ma_students" sys_domain="global" view="Default view">20edf1f287090110159aa68d0ebb3523</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-01-18 10:59:08</sys_updated_on>
         </sys_ui_form_section>
         <sys_ui_form action="INSERT_OR_UPDATE">
             <name>x_707487_school_ma_students</name>

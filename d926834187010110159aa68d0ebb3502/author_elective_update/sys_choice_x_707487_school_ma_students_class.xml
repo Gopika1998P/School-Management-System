@@ -21,100 +21,100 @@
             <element>class</element>
             <hint/>
             <inactive>false</inactive>
-            <label>Class-VIII</label>
+            <label>VIII</label>
             <language>en</language>
             <name>x_707487_school_ma_students</name>
             <sequence>0</sequence>
             <synonyms/>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-01-13 09:56:19</sys_created_on>
+            <sys_created_on>2022-01-17 07:13:51</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>af8f37c187850110159aa68d0ebb3528</sys_id>
+            <sys_id>62b004e287c50110159aa68d0ebb3529</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-01-13 09:56:19</sys_updated_on>
-            <value>Class-VIII</value>
+            <sys_updated_on>2022-01-17 07:13:51</sys_updated_on>
+            <value>VIII</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
             <element>class</element>
             <hint/>
             <inactive>false</inactive>
-            <label>Class-IX</label>
+            <label>IX</label>
             <language>en</language>
             <name>x_707487_school_ma_students</name>
             <sequence>1</sequence>
             <synonyms/>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-01-13 09:56:19</sys_created_on>
+            <sys_created_on>2022-01-17 07:13:51</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>278fbbc187850110159aa68d0ebb35f8</sys_id>
+            <sys_id>6ab004e287c50110159aa68d0ebb352a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-01-13 09:56:19</sys_updated_on>
-            <value>Class-IX</value>
+            <sys_updated_on>2022-01-17 07:13:51</sys_updated_on>
+            <value>IX</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
             <element>class</element>
             <hint/>
             <inactive>false</inactive>
-            <label>Class-X</label>
+            <label>X</label>
             <language>en</language>
             <name>x_707487_school_ma_students</name>
             <sequence>2</sequence>
             <synonyms/>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-01-13 09:56:19</sys_created_on>
+            <sys_created_on>2022-01-17 07:13:51</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>e78fbbc187850110159aa68d0ebb35f9</sys_id>
+            <sys_id>2eb004e287c50110159aa68d0ebb352b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-01-13 09:56:19</sys_updated_on>
-            <value>Class-X</value>
+            <sys_updated_on>2022-01-17 07:13:51</sys_updated_on>
+            <value>X</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
             <element>class</element>
             <hint/>
             <inactive>false</inactive>
-            <label>Class-XI</label>
+            <label>XI</label>
             <language>en</language>
             <name>x_707487_school_ma_students</name>
             <sequence>3</sequence>
             <synonyms/>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-01-13 09:56:19</sys_created_on>
+            <sys_created_on>2022-01-17 07:13:51</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>ab8fbbc187850110159aa68d0ebb35fa</sys_id>
+            <sys_id>eeb004e287c50110159aa68d0ebb352c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-01-13 09:56:19</sys_updated_on>
-            <value>Class-XI</value>
+            <sys_updated_on>2022-01-17 07:13:51</sys_updated_on>
+            <value>XI</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
             <element>class</element>
             <hint/>
             <inactive>false</inactive>
-            <label>Class-XII</label>
+            <label>XII</label>
             <language>en</language>
             <name>x_707487_school_ma_students</name>
             <sequence>4</sequence>
             <synonyms/>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-01-13 09:56:19</sys_created_on>
+            <sys_created_on>2022-01-17 07:13:51</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>6f8fbbc187850110159aa68d0ebb35fb</sys_id>
+            <sys_id>a2b004e287c50110159aa68d0ebb352e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-01-13 09:56:19</sys_updated_on>
-            <value>Class-XII</value>
+            <sys_updated_on>2022-01-17 07:13:51</sys_updated_on>
+            <value>XII</value>
         </sys_choice>
     </sys_choice>
 </record_update>

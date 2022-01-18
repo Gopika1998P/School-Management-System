@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_action">
+    <sys_ui_action action="INSERT_OR_UPDATE">
+        <action_name/>
+        <active>true</active>
+        <client>false</client>
+        <client_script_v2><![CDATA[function onClick(g_form) {
+
+}]]></client_script_v2>
+        <comments/>
+        <condition/>
+        <form_action>true</form_action>
+        <form_button>true</form_button>
+        <form_button_v2>false</form_button_v2>
+        <form_context_menu>false</form_context_menu>
+        <form_link>false</form_link>
+        <form_menu_button_v2>false</form_menu_button_v2>
+        <form_style/>
+        <hint/>
+        <isolate_script>false</isolate_script>
+        <list_action>false</list_action>
+        <list_banner_button>false</list_banner_button>
+        <list_button>false</list_button>
+        <list_choice>false</list_choice>
+        <list_context_menu>false</list_context_menu>
+        <list_link>false</list_link>
+        <list_save_with_form_button>false</list_save_with_form_button>
+        <list_style/>
+        <messages/>
+        <name>Zoom Meeting</name>
+        <onclick/>
+        <order>100</order>
+        <script><![CDATA[ try { 
+ var r = new sn_ws.RESTMessageV2('x_707487_school_ma.Zoom', 'Zoom Meeting Create');
+ r.setStringParameterNoEscape('topic',current.meeting_topic);
+ r.setStringParameterNoEscape('start_time', current.date_and_time);
+ r.setStringParameterNoEscape('duration', current.duration);
+
+
+ var response = r.execute();
+ var responseBody = response.getBody();
+ var httpStatus = response.getStatusCode();
+	 current.worknotes = responseBody;
+	 current.meeting_url = JSON.parse(responseBody).join_url;
+	 current.update();
+}
+catch(ex) {
+ var message = ex.message;
+}]]></script>
+        <show_insert>true</show_insert>
+        <show_multiple_update>false</show_multiple_update>
+        <show_query>false</show_query>
+        <show_update>true</show_update>
+        <sys_class_name>sys_ui_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-01-18 07:44:44</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>beef01b287450110159aa68d0ebb35ff</sys_id>
+        <sys_mod_count>10</sys_mod_count>
+        <sys_name>Zoom Meeting</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="School Management System" source="x_707487_school_ma">d926834187010110159aa68d0ebb3502</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="School Management System">d926834187010110159aa68d0ebb3502</sys_scope>
+        <sys_update_name>sys_ui_action_beef01b287450110159aa68d0ebb35ff</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-01-18 10:22:19</sys_updated_on>
+        <table>x_707487_school_ma_teachers</table>
+        <ui11_compatible>true</ui11_compatible>
+        <ui16_compatible>false</ui16_compatible>
+    </sys_ui_action>
+</record_update>

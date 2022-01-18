@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="class_to_which_admission_needed" table="x_707487_school_ma_admission" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>class_to_which_admission_needed</element>
+            <name>x_707487_school_ma_admission</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-01-17 04:19:09</sys_created_on>
+            <sys_id>27b8dbd287050110159aa68d0ebb359e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>class_to_which_admission_needed</sys_name>
+            <sys_package display_value="School Management System" source="x_707487_school_ma">d926834187010110159aa68d0ebb3502</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="School Management System">d926834187010110159aa68d0ebb3502</sys_scope>
+            <sys_update_name>sys_choice_x_707487_school_ma_admission_class_to_which_admission_needed</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-01-17 04:19:09</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>class_to_which_admission_needed</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>VIII</label>
+            <language>en</language>
+            <name>x_707487_school_ma_admission</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-01-17 04:19:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e3b8d71287050110159aa68d0ebb357c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-01-17 04:19:09</sys_updated_on>
+            <value>VIII</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>class_to_which_admission_needed</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>IX</label>
+            <language>en</language>
+            <name>x_707487_school_ma_admission</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-01-17 04:19:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2fb8dbd287050110159aa68d0ebb359f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-01-17 04:19:09</sys_updated_on>
+            <value>IX</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>class_to_which_admission_needed</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>X</label>
+            <language>en</language>
+            <name>x_707487_school_ma_admission</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-01-17 04:19:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>efb8dbd287050110159aa68d0ebb35a0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-01-17 04:19:09</sys_updated_on>
+            <value>X</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>class_to_which_admission_needed</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>XI</label>
+            <language>en</language>
+            <name>x_707487_school_ma_admission</name>
+            <sequence>3</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-01-17 04:19:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a3b8dbd287050110159aa68d0ebb35a2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-01-17 04:19:09</sys_updated_on>
+            <value>XI</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>class_to_which_admission_needed</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>XII</label>
+            <language>en</language>
+            <name>x_707487_school_ma_admission</name>
+            <sequence>4</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-01-17 04:19:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>67b8dbd287050110159aa68d0ebb35a3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-01-17 04:19:09</sys_updated_on>
+            <value>XII</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

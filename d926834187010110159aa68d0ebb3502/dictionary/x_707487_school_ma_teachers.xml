@@ -13,8 +13,13 @@
             </choice>
         </element>
         <element label="Contact Number" max_length="40" name="contact_number" type="string"/>
+        <element label="Date and Time" max_length="40" name="date_and_time" type="glide_date_time"/>
+        <element label="Duration" max_length="40" name="duration" type="integer"/>
+        <element label="Meeting Topic" max_length="40" name="meeting_topic" type="string"/>
+        <element label="Meeting URL" max_length="1024" name="meeting_url" type="url"/>
         <element label="Name" max_length="100" name="name" type="string"/>
         <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Posted On" max_length="40" name="posted_on" type="glide_date"/>
         <element choice="1" label="Subject" max_length="40" name="subject" type="choice">
             <choice>
                 <element inactive_on_update="false" label="Physics" sequence="0" value="Physics"/>
@@ -24,6 +29,7 @@
                 <element inactive_on_update="false" label="Maths" sequence="4" value="Maths"/>
             </choice>
         </element>
+        <element label="Notes" max_length="40" name="u_file_attachment_1" type="file_attachment"/>
         <index name="index">
             <element name="class_incharge"/>
         </index>

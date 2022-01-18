@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Notes" section_id="bda4393a87c50110159aa68d0ebb35bc" sys_domain="global" table="x_707487_school_ma_teachers" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>posted_on</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-01-18 10:20:04</sys_created_on>
+            <sys_id>5cf4bd3a87c50110159aa68d0ebb3500</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Notes" display_value="Notes" name="x_707487_school_ma_teachers" sys_domain="global" view="Default view">bda4393a87c50110159aa68d0ebb35bc</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-01-18 10:20:04</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-01-18 10:20:04</sys_created_on>
+            <sys_id>dcf4bd3a87c50110159aa68d0ebb3500</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Notes" display_value="Notes" name="x_707487_school_ma_teachers" sys_domain="global" view="Default view">bda4393a87c50110159aa68d0ebb35bc</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-01-18 10:20:04</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_file_attachment_1</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-01-18 10:20:04</sys_created_on>
+            <sys_id>50f4bd3a87c50110159aa68d0ebb3501</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Notes" display_value="Notes" name="x_707487_school_ma_teachers" sys_domain="global" view="Default view">bda4393a87c50110159aa68d0ebb35bc</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-01-18 10:20:04</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Notes</caption>
+            <header>false</header>
+            <name>x_707487_school_ma_teachers</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-01-18 10:18:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bda4393a87c50110159aa68d0ebb35bc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_707487_school_ma_teachers</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="School Management System" source="x_707487_school_ma">d926834187010110159aa68d0ebb3502</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="School Management System">d926834187010110159aa68d0ebb3502</sys_scope>
+            <sys_update_name>sys_ui_section_bda4393a87c50110159aa68d0ebb35bc</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-01-18 10:18:48</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

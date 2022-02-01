@@ -28,6 +28,20 @@
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2022-01-18 10:59:08</sys_updated_on>
         </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-01-20 06:15:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3930d75f87410110159aa68d0ebb3529</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_707487_school_ma_students" name="x_707487_school_ma_students" sys_domain="global" view="Default view">fb3eb38187850110159aa68d0ebb35f4</sys_ui_form>
+            <sys_ui_section caption="Notes And Assignments" display_value="Notes And Assignments" name="x_707487_school_ma_students" sys_domain="global" view="Default view">7530d75f87410110159aa68d0ebb3525</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-01-20 06:15:49</sys_updated_on>
+        </sys_ui_form_section>
         <sys_ui_form action="INSERT_OR_UPDATE">
             <name>x_707487_school_ma_students</name>
             <roles/>

@@ -4,13 +4,13 @@
             <element>date_and_time</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-01-18 11:05:52</sys_created_on>
-            <sys_id>036ffd3687090110159aa68d0ebb35bd</sys_id>
+            <sys_created_on>2022-01-20 06:05:53</sys_created_on>
+            <sys_id>90fd47db87410110159aa68d0ebb3595</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Class Meeting Details" display_value="Class Meeting Details" name="x_707487_school_ma_students" sys_domain="global" view="Default view">20edf1f287090110159aa68d0ebb3522</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-01-18 11:05:52</sys_updated_on>
+            <sys_updated_on>2022-01-20 06:05:53</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -18,13 +18,13 @@
             <element>duration</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-01-18 11:05:52</sys_created_on>
-            <sys_id>836ffd3687090110159aa68d0ebb35bd</sys_id>
+            <sys_created_on>2022-01-20 06:05:53</sys_created_on>
+            <sys_id>58fd47db87410110159aa68d0ebb3595</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Class Meeting Details" display_value="Class Meeting Details" name="x_707487_school_ma_students" sys_domain="global" view="Default view">20edf1f287090110159aa68d0ebb3522</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-01-18 11:05:52</sys_updated_on>
+            <sys_updated_on>2022-01-20 06:05:53</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -32,13 +32,13 @@
             <element>.split</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-01-18 11:05:52</sys_created_on>
-            <sys_id>076ffd3687090110159aa68d0ebb35bd</sys_id>
+            <sys_created_on>2022-01-20 06:05:53</sys_created_on>
+            <sys_id>d8fd47db87410110159aa68d0ebb3595</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Class Meeting Details" display_value="Class Meeting Details" name="x_707487_school_ma_students" sys_domain="global" view="Default view">20edf1f287090110159aa68d0ebb3522</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-01-18 11:05:52</sys_updated_on>
+            <sys_updated_on>2022-01-20 06:05:53</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
@@ -46,13 +46,27 @@
             <element>meeting_url</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-01-18 11:05:52</sys_created_on>
-            <sys_id>876ffd3687090110159aa68d0ebb35bd</sys_id>
+            <sys_created_on>2022-01-20 06:05:53</sys_created_on>
+            <sys_id>5cfd47db87410110159aa68d0ebb3595</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Class Meeting Details" display_value="Class Meeting Details" name="x_707487_school_ma_students" sys_domain="global" view="Default view">20edf1f287090110159aa68d0ebb3522</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-01-18 11:05:52</sys_updated_on>
+            <sys_updated_on>2022-01-20 06:05:53</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>posted_on</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-01-20 06:05:53</sys_created_on>
+            <sys_id>dcfd47db87410110159aa68d0ebb3595</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Class Meeting Details" display_value="Class Meeting Details" name="x_707487_school_ma_students" sys_domain="global" view="Default view">20edf1f287090110159aa68d0ebb3522</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-01-20 06:05:53</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

@@ -17,8 +17,9 @@
         <element label="Duration" max_length="40" name="duration" type="integer"/>
         <element label="Meeting Topic" max_length="40" name="meeting_topic" type="string"/>
         <element label="Meeting URL" max_length="1024" name="meeting_url" type="url"/>
-        <element label="Name" max_length="100" name="name" type="string"/>
+        <element display="true" label="Name" max_length="100" name="name" type="string"/>
         <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Parent Linked" max_length="32" name="parent_linked" reference="x_707487_school_ma_students" type="reference"/>
         <element label="Posted On" max_length="40" name="posted_on" type="glide_date"/>
         <element choice="1" label="Subject" max_length="40" name="subject" type="choice">
             <choice>
@@ -31,6 +32,9 @@
         </element>
         <element label="Notes" max_length="40" name="u_file_attachment_1" type="file_attachment"/>
         <index name="index">
+            <element name="parent_linked"/>
+        </index>
+        <index name="index2">
             <element name="class_incharge"/>
         </index>
     </element>

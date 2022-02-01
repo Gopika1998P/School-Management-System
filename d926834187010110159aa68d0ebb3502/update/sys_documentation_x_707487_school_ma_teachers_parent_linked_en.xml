@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="parent_linked" label="Parent Linked" language="en" table="x_707487_school_ma_teachers">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>parent_linked</element>
+            <help/>
+            <hint/>
+            <label>Parent Linked</label>
+            <language>en</language>
+            <name>x_707487_school_ma_teachers</name>
+            <plural>Parent Linked</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-01-25 11:06:41</sys_created_on>
+            <sys_id>0bb24ec987550110159aa68d0ebb35e8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Parent Linked</sys_name>
+            <sys_package display_value="School Management System" source="x_707487_school_ma">d926834187010110159aa68d0ebb3502</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="School Management System">d926834187010110159aa68d0ebb3502</sys_scope>
+            <sys_update_name>sys_documentation_x_707487_school_ma_teachers_parent_linked_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-01-25 11:06:41</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
